@@ -80,10 +80,9 @@ The dataset contains **1000 rows** with the following columns:
 
 ## 📉 Visualization
 
-![Actual vs Predicted](![download](https://github.com/user-attachments/assets/c590197d-8cbf-4a7e-8ab9-b3a2e86fae31)
-)
+![Actual vs Predicted](https://github.com/user-attachments/assets/c590197d-8cbf-4a7e-8ab9-b3a2e86fae31)
 
-*(Include this plot in your `images/` folder for GitHub rendering)*
+
 
 ---
 
